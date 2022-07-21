@@ -1,0 +1,1174 @@
+[INFO ] 2021-09-01 01:17:29.778 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-01 01:17:36.889 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-01 01:51:54.060 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-01 01:51:54.293 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 01:51:54.453 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 01:51:55.631 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-01 02:02:53.297 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-01 02:02:53.529 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 02:02:53.698 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 02:02:54.866 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-01 02:02:54.950 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-01 02:03:28.713 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-01 02:03:28.932 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 02:03:29.098 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 02:03:30.211 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-01 02:06:09.462 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-01 02:06:16.375 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-01 02:06:23.035 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-01 02:06:23.268 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 02:06:23.431 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-01 02:06:24.613 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-01 02:06:24.688 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:04:36.335 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-10 00:04:47.865 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-10 00:04:57.290 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 00:04:57.520 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-10 00:04:57.668 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-10 00:04:58.789 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:04:58.870 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:05:08.024 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 00:05:08.214 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 00:05:08.358 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 00:05:09.468 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:05:09.542 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:10:56.284 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-10 00:11:06.264 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-10 00:11:15.514 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 00:11:15.705 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-10 00:11:15.847 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-10 00:11:17.015 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:11:17.097 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:11:25.893 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 00:11:26.092 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 00:11:26.259 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 00:11:27.430 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:11:27.504 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:11:37.294 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 00:11:37.511 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-10 00:11:37.673 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-10 00:11:38.904 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:11:38.977 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:18:27.146 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-10 00:18:46.325 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 00:18:46.515 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-10 00:18:46.663 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-10 00:18:47.747 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:18:47.812 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:18:56.591 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 00:18:56.792 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 00:18:56.944 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 00:18:58.143 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:18:58.223 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:19:09.187 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 00:19:09.389 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-10 00:19:09.539 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-10 00:19:10.807 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:19:10.874 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:23:34.051 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-10 00:24:54.517 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-10 00:29:26.431 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-10 00:29:35.230 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-10 00:29:35.409 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-10 00:34:29.993 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:43:00.064 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:44:52.171 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:45:58.285 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:45:58.365 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 00:48:26.898 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 00:48:27.111 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 00:48:27.284 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 00:48:27.359 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 01:03:02.067 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 01:03:02.275 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 01:03:02.441 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-10 01:03:04.513 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:06:14.899 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 01:06:15.106 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 01:06:15.287 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-10 01:06:17.398 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:07:16.866 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 01:07:17.072 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 01:07:17.262 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-10 01:07:19.426 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:07:19.512 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-10 01:08:09.908 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-10 01:08:17.900 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-10 01:08:18.098 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-10 01:08:25.713 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 01:08:25.931 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-10 01:08:26.089 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-10 01:08:27.259 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:08:27.333 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 01:08:35.478 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-10 01:08:35.690 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 01:08:35.835 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-10 01:08:36.954 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:08:37.032 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 01:08:43.254 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 01:08:43.463 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-10 01:08:43.643 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-10 01:08:44.693 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:08:44.765 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 01:08:50.738 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:08:50.811 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 01:08:57.132 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 01:08:57.326 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 01:08:57.470 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:08:57.537 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-10 01:09:03.888 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-10 01:09:04.070 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-10 01:09:04.251 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-10 01:09:06.334 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-10 01:09:06.419 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 10:24:28.678 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 10:24:28.899 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 10:24:29.082 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 10:24:31.063 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 10:24:31.141 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 10:24:31.147 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 10:25:19.477 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 10:25:19.683 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 10:25:19.869 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 10:25:23.531 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 10:25:23.608 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 10:25:23.614 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 10:26:08.828 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 10:26:09.042 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 10:26:09.221 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 10:26:11.883 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 10:26:11.961 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 10:26:11.968 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 11:09:06.744 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:09:06.951 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:09:07.134 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:09:09.001 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:09:09.084 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:09:09.091 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 11:09:16.251 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:09:16.446 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:09:16.628 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:09:18.569 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:09:18.637 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:09:19.898 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 11:24:21.882 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:24:22.102 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:24:22.325 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:24:24.541 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:24:24.617 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:24:24.623 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 11:24:35.100 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:24:35.303 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:24:35.469 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:24:37.338 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:24:37.418 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:24:52.896 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 11:27:03.931 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:27:04.139 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:27:04.321 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:27:05.967 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:27:06.036 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:27:06.042 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 11:27:12.179 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:27:12.361 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:27:12.514 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:27:14.139 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:27:14.220 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:27:29.133 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 11:28:24.283 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:28:24.489 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:28:24.671 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:28:26.590 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:28:26.678 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:28:26.684 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 11:28:33.353 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:28:33.550 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:28:33.702 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:28:35.264 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:28:35.332 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:28:51.051 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 11:29:37.367 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:29:37.575 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:29:37.759 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:29:39.675 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:29:39.752 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:29:39.758 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 11:29:46.345 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:29:46.545 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:29:46.726 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:29:48.522 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:29:48.600 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:31:27.350 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:31:27.565 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:31:27.748 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:31:29.705 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:31:29.776 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:31:29.782 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 11:31:36.318 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 11:31:36.534 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 11:31:36.683 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 11:31:38.566 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 11:31:38.648 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 11:31:45.047 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 15:12:41.489 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 15:12:41.798 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 15:12:41.976 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 15:12:44.091 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 15:12:44.183 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 15:12:44.190 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 15:12:52.869 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 15:12:53.096 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 15:12:53.283 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 15:12:55.252 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 15:12:55.333 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 15:13:01.562 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 15:51:07.639 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 15:51:07.850 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 15:51:08.019 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 15:51:09.915 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 15:51:09.998 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 15:51:10.232 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 15:51:11.522 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 15:51:11.539 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 15:51:12.794 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 15:51:12.871 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 15:52:27.599 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 15:52:27.822 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 15:52:27.992 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 15:52:29.894 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 15:52:29.970 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 15:52:30.164 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 15:52:31.489 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 15:52:31.501 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 15:52:32.766 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 15:52:32.830 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 15:52:33.335 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 15:55:18.128 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 15:55:18.339 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 15:55:18.518 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 15:55:20.383 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 15:55:20.464 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 15:55:20.658 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 15:55:21.981 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 15:55:21.993 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 15:55:23.014 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 15:55:23.089 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 15:55:23.618 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 15:55:24.410 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 15:55:24.487 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 15:55:25.045 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 15:55:25.055 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 16:12:20.189 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 16:12:20.397 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 16:12:20.583 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 16:12:22.447 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 16:12:22.521 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 16:20:18.853 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 16:20:19.064 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 16:20:19.224 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 16:20:21.046 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 16:20:21.116 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 16:20:21.214 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 16:20:21.305 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 16:20:21.503 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 16:31:54.385 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 16:31:54.596 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 16:31:54.778 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 16:31:56.439 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 16:31:56.524 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 16:31:56.632 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 16:31:56.724 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 16:31:56.933 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 16:31:56.933 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 16:33:55.971 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 16:33:56.192 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 16:33:56.362 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 16:33:58.262 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 16:33:58.324 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 16:33:58.422 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 16:33:58.514 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 16:33:58.749 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 16:33:58.749 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 22:04:44.219 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:04:44.472 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:04:44.657 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:04:46.322 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:04:46.399 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:04:46.626 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 22:04:47.980 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:04:47.995 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:04:48.575 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:04:48.589 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:05:17.488 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:05:17.712 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:05:17.892 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:05:19.701 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:05:19.805 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:05:19.983 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 22:05:21.325 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:05:21.338 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:05:21.922 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:05:21.932 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:47:16.294 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:47:16.503 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:47:16.668 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:47:18.567 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:47:18.643 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:47:18.649 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:47:19.842 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 22:48:23.542 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:48:23.753 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:48:23.931 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:48:25.847 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:48:25.918 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:48:25.927 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:48:27.239 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 22:48:27.255 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:49:14.587 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:49:20.901 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-12 22:49:21.084 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-12 22:49:28.048 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-12 22:49:28.258 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-12 22:49:28.430 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:49:29.528 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:49:29.606 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:49:37.139 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-12 22:49:37.350 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:49:37.509 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:49:38.617 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:49:38.694 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:49:46.046 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:49:46.275 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-12 22:49:46.454 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:49:47.618 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:49:47.693 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:49:54.451 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:49:54.525 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:50:00.433 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:50:00.649 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:50:00.827 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:50:00.894 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:50:06.851 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:50:07.067 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:50:07.236 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:50:09.168 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:50:09.242 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:50:16.447 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:50:16.636 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:50:16.788 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:50:18.759 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:50:18.843 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:50:18.849 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:50:27.293 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:50:27.500 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:50:27.662 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:50:29.569 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:50:29.645 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:50:37.321 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 22:50:45.005 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:50:45.204 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:50:45.358 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:50:47.230 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:50:47.306 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:50:47.500 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 22:50:48.785 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:50:48.798 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:50:50.126 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 22:50:50.187 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 22:50:50.722 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 22:50:51.565 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 22:50:51.625 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 22:50:52.164 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 22:50:52.175 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:50:58.149 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:50:58.347 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:50:58.500 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:51:00.468 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:51:00.547 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:51:00.644 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 22:51:00.733 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 22:51:00.911 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 22:51:00.912 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 22:51:06.725 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:51:06.910 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:51:07.074 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:51:08.900 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:51:08.973 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:51:09.139 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 22:51:10.443 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:51:10.452 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:51:11.049 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 22:51:11.064 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:51:17.005 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:51:17.184 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:51:17.335 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:51:19.217 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:51:19.290 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:51:19.295 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:51:20.546 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 22:51:20.552 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:56:37.771 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:56:45.093 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-12 22:56:45.273 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-12 22:56:53.071 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-12 22:56:53.258 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-12 22:56:53.432 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:56:54.510 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:56:54.577 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:57:01.247 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-12 22:57:01.447 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:57:01.597 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:57:02.698 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:57:02.776 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:57:10.926 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:57:11.165 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-12 22:57:11.324 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:57:12.447 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:57:12.533 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:57:18.542 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:57:18.616 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:57:25.927 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:57:26.132 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:57:26.292 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:57:26.360 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 22:57:32.652 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:57:32.885 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:57:33.028 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:57:34.795 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:57:34.908 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:58:29.330 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:58:29.547 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:58:29.726 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:58:31.568 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:58:31.650 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:58:31.656 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:58:38.364 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:58:38.564 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:58:38.745 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:58:40.423 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:58:40.502 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:58:46.841 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 22:58:52.840 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:58:53.041 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:58:53.195 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:58:55.004 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:58:55.077 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:58:55.273 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 22:58:56.547 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:58:56.560 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:58:57.836 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 22:58:57.910 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 22:58:58.412 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 22:58:59.180 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 22:58:59.263 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 22:58:59.776 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 22:58:59.785 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:59:05.846 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:59:06.046 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:59:06.227 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:59:08.063 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:59:08.139 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:59:08.253 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 22:59:08.343 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 22:59:08.550 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 22:59:08.550 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 22:59:14.831 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:59:15.030 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:59:15.209 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:59:16.935 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:59:17.012 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:59:17.200 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 22:59:18.470 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 22:59:18.482 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:59:19.055 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 22:59:19.065 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:59:25.339 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 22:59:25.521 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 22:59:25.674 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 22:59:27.695 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 22:59:27.762 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 22:59:27.770 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 22:59:29.147 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 22:59:29.163 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:06:23.587 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:06:23.798 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:06:23.980 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:06:25.875 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:06:25.951 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:06:25.957 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:06:37.708 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:06:37.907 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:06:38.080 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:06:40.412 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:06:40.496 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:06:49.077 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 23:06:59.170 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:06:59.364 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:06:59.533 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:07:01.472 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:07:01.558 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:07:01.754 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:07:02.981 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:07:02.993 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:07:04.251 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 23:07:04.315 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 23:07:04.854 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:07:05.701 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 23:07:05.759 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 23:07:06.274 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:07:06.285 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:07:13.079 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:07:13.263 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:07:13.428 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:07:15.381 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:07:15.452 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:07:15.553 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:07:15.642 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:07:15.847 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 23:07:15.847 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 23:07:21.882 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:07:22.099 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:07:22.314 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:07:24.219 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:07:24.298 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:07:24.504 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:07:25.835 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:07:25.844 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:07:26.453 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 23:07:26.468 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:07:34.777 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:07:35.037 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:07:35.190 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:07:39.031 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:07:39.103 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:07:39.108 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:07:40.328 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 23:07:40.344 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:09:02.810 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:09:03.021 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:09:03.188 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:09:05.088 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:09:05.154 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:09:05.159 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:09:13.404 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:09:13.608 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:09:13.773 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:09:16.378 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:09:16.442 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:09:23.718 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 23:09:31.211 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:09:31.400 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:09:31.564 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:09:33.306 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:09:33.382 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:09:33.563 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:09:34.842 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:09:34.856 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:09:36.122 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 23:09:36.194 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 23:09:36.720 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:09:37.513 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 23:09:37.592 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 23:09:38.119 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:09:38.127 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:09:45.193 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:09:45.386 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:09:45.531 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:09:47.375 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:09:47.457 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:09:47.571 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:09:47.646 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:09:47.823 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 23:09:47.823 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 23:09:54.253 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:09:54.438 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:09:54.590 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:09:56.386 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:09:56.453 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:09:56.628 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:09:57.958 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:09:57.968 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:09:58.537 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 23:09:58.547 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:10:05.312 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:10:05.495 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:10:05.651 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:10:07.557 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:10:07.643 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:10:07.650 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:10:09.015 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 23:10:09.023 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:13:36.888 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:13:37.096 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:13:37.282 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:13:39.431 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:13:39.500 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:13:39.692 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:13:40.989 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:13:41.002 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:13:42.326 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 23:13:42.390 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 23:13:42.923 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:13:43.712 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 23:13:43.777 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 23:13:44.267 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:13:44.277 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:13:51.119 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:13:51.306 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:13:51.488 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:13:53.368 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:13:53.434 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:13:53.613 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:13:54.441 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:13:54.454 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:13:55.055 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 23:13:55.065 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:14:01.296 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:14:01.496 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:14:01.680 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:14:03.540 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:14:03.610 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:14:03.724 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:14:03.814 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:14:04.022 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 23:14:04.023 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 23:14:10.304 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:14:10.490 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:14:10.654 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:14:12.579 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:14:12.654 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:14:18.609 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 23:14:25.530 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:14:25.713 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:14:25.879 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:14:27.665 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:14:27.735 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:14:27.742 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:14:29.022 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 23:14:29.034 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:14:35.117 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:14:35.316 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:14:35.481 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:14:37.395 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:14:37.483 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:14:37.488 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:35:30.573 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:35:30.791 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:35:30.984 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:35:32.898 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:35:32.977 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:35:32.982 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:35:39.734 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:35:39.936 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:35:40.115 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:35:41.885 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:35:41.967 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:35:47.461 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 23:35:54.976 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:35:55.159 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:35:55.315 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:35:57.130 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:35:57.207 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:35:57.401 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:35:58.690 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:35:58.703 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:35:59.754 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 23:35:59.816 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 23:36:00.302 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:36:01.074 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 23:36:01.127 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 23:36:01.675 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:36:01.686 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:36:08.410 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:36:08.595 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:36:08.762 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:36:10.649 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:36:10.757 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:36:10.887 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:36:10.987 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:36:11.179 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 23:36:11.180 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 23:36:18.034 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:36:18.244 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:36:18.396 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:36:20.232 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:36:20.319 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:36:20.494 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:36:21.755 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:36:21.768 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:36:22.342 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 23:36:22.353 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:36:28.353 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:36:28.553 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:36:28.703 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:36:30.597 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:36:30.675 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:36:30.681 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:36:32.015 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 23:36:32.027 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:43:55.294 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:43:55.504 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:43:55.687 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:43:57.600 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:43:57.702 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:43:57.708 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:44:04.523 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:44:04.707 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:44:04.888 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:44:06.912 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:44:06.991 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:44:13.625 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 23:44:24.022 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:44:24.224 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:44:24.417 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:44:26.234 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:44:26.302 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:44:26.498 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:44:27.880 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:44:27.890 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:44:28.928 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 23:44:29.001 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 23:44:29.490 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:44:30.304 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 23:44:30.386 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 23:44:30.892 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:44:30.904 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:44:37.754 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:44:37.949 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:44:38.117 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:44:40.041 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:44:40.106 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:44:40.213 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:44:40.291 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:44:40.471 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 23:44:40.471 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 23:44:46.841 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:44:47.028 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:44:47.179 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:44:49.095 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:44:49.161 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:44:49.325 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:44:50.627 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:44:50.641 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:44:51.209 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 23:44:51.219 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:44:57.650 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:44:57.849 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:44:58.002 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:44:59.834 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:44:59.904 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:44:59.910 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:45:01.248 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 23:45:01.257 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:46:11.125 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:46:17.875 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-12 23:46:18.052 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-12 23:46:24.020 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-12 23:46:24.223 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-12 23:46:24.368 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:46:25.510 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:46:25.582 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 23:46:31.730 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-12 23:46:31.929 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:46:32.093 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:46:33.272 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:46:33.352 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 23:46:39.261 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:46:39.461 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-12 23:46:39.658 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:46:40.923 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:46:41.002 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 23:46:48.564 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:46:48.638 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 23:46:54.580 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:46:54.860 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:46:54.999 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:46:55.074 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-12 23:47:01.162 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:47:01.362 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:47:01.548 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:47:03.491 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:47:03.565 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:47:09.931 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:47:10.115 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:47:10.280 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:47:12.275 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:47:12.356 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:47:12.361 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:47:20.265 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:47:20.478 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:47:20.635 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:47:22.743 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:47:22.810 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:47:32.448 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 23:47:39.724 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:47:39.923 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:47:40.078 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:47:41.973 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:47:42.054 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:47:42.231 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:47:43.491 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:47:43.502 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:47:44.774 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 23:47:44.834 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 23:47:45.397 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:47:46.283 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 23:47:46.341 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 23:47:46.825 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:47:46.834 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:47:52.543 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:47:52.744 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:47:52.939 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:47:54.863 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:47:54.925 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:47:55.037 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:47:55.114 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:47:55.318 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 23:47:55.319 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 23:48:01.245 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:48:01.446 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:48:01.606 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:48:03.502 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:48:03.576 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:48:03.741 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:48:05.141 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:48:05.152 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:48:05.741 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 23:48:05.753 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:48:12.416 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:48:12.596 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:48:12.771 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:48:14.597 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:48:14.667 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:48:14.672 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:48:15.976 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 23:48:15.992 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:53:18.816 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:53:19.022 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:53:19.202 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:53:20.831 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:53:20.912 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:53:20.918 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:53:27.169 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:53:27.365 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:53:27.546 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:53:29.485 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:53:29.554 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:53:36.701 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-12 23:53:44.930 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:53:45.129 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:53:45.283 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:53:47.110 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:53:47.193 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:53:47.396 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:53:48.722 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:53:48.735 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:53:49.739 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-12 23:53:49.810 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-12 23:53:50.304 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:53:50.999 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-12 23:53:51.068 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-12 23:53:51.652 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-12 23:53:51.661 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:53:57.564 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:53:57.798 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:53:57.970 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:53:59.898 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:53:59.974 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:54:00.116 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:54:00.191 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-12 23:54:00.384 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-12 23:54:00.384 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-12 23:54:06.415 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:54:06.597 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:54:06.749 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:54:08.583 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:54:08.658 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:54:08.838 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-12 23:54:10.224 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-12 23:54:10.235 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:54:10.808 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-12 23:54:10.820 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:54:16.802 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-12 23:54:16.987 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-12 23:54:17.141 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-12 23:54:18.815 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-12 23:54:18.896 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-12 23:54:18.902 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-12 23:54:20.205 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-12 23:54:20.214 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:01:32.997 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:01:41.719 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-13 01:01:41.928 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-13 01:01:49.294 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-13 01:01:49.520 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-13 01:01:49.707 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:01:50.773 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:01:50.871 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-13 01:01:58.051 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-13 01:01:58.242 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:01:58.391 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:01:59.916 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:01:59.997 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-13 01:02:09.216 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:02:09.421 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-13 01:02:09.599 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:02:10.770 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:02:10.866 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-13 01:02:18.461 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:02:18.536 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-13 01:02:24.607 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:02:24.794 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:02:24.959 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:02:25.026 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-13 01:02:31.291 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:02:31.482 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:02:31.722 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:02:34.365 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:02:34.433 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-13 01:02:43.120 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:02:43.325 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:02:43.473 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:02:45.351 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:02:45.424 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-13 01:02:45.430 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:02:54.705 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:02:54.906 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:02:55.071 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:02:56.872 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:02:56.950 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-13 01:03:04.576 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-13 01:03:12.259 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:03:12.460 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:03:12.612 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:03:15.304 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:03:15.367 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-13 01:03:15.626 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-13 01:03:16.918 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-13 01:03:16.928 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:03:18.218 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-13 01:03:18.279 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-13 01:03:18.805 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-13 01:03:19.583 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-13 01:03:19.648 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-13 01:03:20.159 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-13 01:03:20.169 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:03:26.929 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:03:27.131 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:03:27.293 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:03:29.158 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:03:29.225 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-13 01:03:29.320 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-13 01:03:29.399 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-13 01:03:29.586 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-13 01:03:29.587 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-13 01:03:35.919 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:03:36.104 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:03:36.258 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:03:38.957 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:03:39.031 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-13 01:03:39.195 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-13 01:03:40.517 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-13 01:03:40.530 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:03:41.122 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-13 01:03:41.132 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:03:47.612 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-13 01:03:47.804 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-13 01:03:47.950 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-13 01:03:50.556 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-13 01:03:50.620 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-13 01:03:50.625 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-13 01:03:51.881 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-13 01:03:51.889 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-16 23:42:10.697 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-16 23:52:39.160 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-16 23:52:58.001 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-16 23:52:58.185 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-16 23:53:05.977 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-16 23:53:06.259 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-16 23:53:06.434 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-16 23:53:07.636 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-16 23:53:07.707 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-16 23:53:16.830 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-16 23:53:17.024 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-16 23:53:17.195 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-16 23:53:18.361 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-16 23:53:18.428 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-16 23:53:29.271 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-16 23:53:29.478 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-16 23:53:29.653 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-16 23:53:30.999 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-16 23:53:31.072 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-16 23:53:38.964 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-16 23:53:39.066 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-16 23:53:46.882 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-16 23:53:47.072 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-16 23:53:47.239 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-16 23:53:47.311 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-17 00:11:48.323 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:11:57.968 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-17 00:11:58.298 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-17 00:12:07.491 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-17 00:12:07.788 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-17 00:12:08.026 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:12:09.287 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:12:09.401 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-17 00:12:19.055 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-17 00:12:19.495 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:12:19.791 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:12:21.255 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:12:21.356 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-17 00:12:30.771 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:12:31.053 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-17 00:12:31.251 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:12:32.501 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:12:32.627 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-17 00:12:40.234 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:12:40.371 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-17 00:12:49.740 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:12:49.975 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:12:50.178 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:12:50.259 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-17 00:12:58.683 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:12:58.908 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:12:59.117 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:13:01.051 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:13:01.139 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-17 00:13:10.842 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:13:11.086 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:13:11.272 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:13:13.473 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:13:13.548 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-17 00:13:13.555 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:13:21.799 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:13:22.025 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:13:22.212 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:13:24.384 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:13:24.484 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-17 00:13:34.026 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-17 00:13:41.976 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:13:42.239 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:13:42.501 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:13:44.656 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:13:44.741 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-17 00:13:44.972 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-17 00:13:46.220 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-17 00:13:46.232 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:13:47.746 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-17 00:13:47.817 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-17 00:13:48.444 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-17 00:13:49.374 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-17 00:13:49.469 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-17 00:13:50.200 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-17 00:13:50.217 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:13:57.252 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:13:57.435 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:13:57.607 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:13:59.598 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:13:59.666 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-17 00:13:59.763 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-17 00:13:59.839 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-17 00:14:00.031 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-17 00:14:00.032 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-17 00:14:06.478 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:14:06.663 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:14:06.826 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:14:09.529 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:14:09.607 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-17 00:14:09.773 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-17 00:14:10.901 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-17 00:14:10.915 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:14:11.467 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-17 00:14:11.483 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:14:18.805 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-17 00:14:19.014 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-17 00:14:19.189 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-17 00:14:21.281 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-17 00:14:21.347 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-17 00:14:21.353 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:14:22.816 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-17 00:14:22.829 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-17 00:25:58.460 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:09:42.069 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:09:49.392 [main] LoginPageTestCases - Alert is displayed with 'Okay' button and It has been accepted successfully.
+[INFO ] 2021-09-25 12:09:49.611 [main] LoginPageTestCases - Alert is disappeared.
+[INFO ] 2021-09-25 12:09:56.311 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-25 12:09:56.520 [main] LoginPageTestCases - Password is Adminn12132 successfully entered.
+[INFO ] 2021-09-25 12:09:56.693 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:09:57.733 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:09:57.802 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-25 12:10:05.349 [main] LoginPageTestCases - Username is Adminn successfully entered.
+[INFO ] 2021-09-25 12:10:05.567 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:10:05.739 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:10:06.760 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:10:06.837 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-25 12:10:15.123 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:10:15.319 [main] LoginPageTestCases - Password is Admin1234 successfully entered.
+[INFO ] 2021-09-25 12:10:15.492 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:10:16.608 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:10:16.688 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-25 12:10:23.886 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:10:23.958 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-25 12:10:32.422 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:10:32.607 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:10:32.756 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:10:32.823 [main] LoginPageTestCases - Error message verification completed.
+[INFO ] 2021-09-25 12:10:40.962 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:10:41.172 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:10:41.351 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:10:44.136 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:10:44.216 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-25 12:10:52.486 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:10:52.739 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:10:52.897 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:10:55.392 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:10:55.467 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-25 12:10:55.473 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:11:03.561 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:11:03.807 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:11:03.976 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:11:06.701 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:11:06.763 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-25 12:11:15.052 [main] LoginPageTestCases - All home page slabs are working fine.
+[INFO ] 2021-09-25 12:11:23.693 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:11:23.891 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:11:24.059 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:11:26.883 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:11:26.955 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-25 12:11:27.153 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-25 12:11:28.385 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-25 12:11:28.398 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:11:30.181 [main] LoginPageTestCases - User successfully clicked on change password slab.
+[INFO ] 2021-09-25 12:11:30.267 [main] LoginPageTestCases - Change password page header title verification completed.
+[INFO ] 2021-09-25 12:11:30.806 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-25 12:11:31.560 [main] LoginPageTestCases - User successfully clicked on my languages slab.
+[INFO ] 2021-09-25 12:11:31.618 [main] LoginPageTestCases - My languages page header title verification completed.
+[INFO ] 2021-09-25 12:11:32.124 [main] LoginPageTestCases - User successfully clicked on cancel button.
+[INFO ] 2021-09-25 12:11:32.134 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:11:40.159 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:11:40.350 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:11:40.526 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:11:43.176 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:11:43.249 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-25 12:11:43.345 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-25 12:11:43.437 [main] LoginPageTestCases - User successfully clicked on location selection button.
+[INFO ] 2021-09-25 12:11:43.628 [main] LoginPageTestCases - User successfully clicked on 'Outpatient Clinic' location option.
+[INFO ] 2021-09-25 12:11:43.629 [main] LoginPageTestCases - User location verification completed.
+[INFO ] 2021-09-25 12:11:51.873 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:11:52.088 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:11:52.234 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:11:54.791 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:11:54.857 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-25 12:11:55.021 [main] LoginPageTestCases - 'My Account' sub-menu populate successfully.
+[INFO ] 2021-09-25 12:11:56.269 [main] LoginPageTestCases - My Account page successfully opened.
+[INFO ] 2021-09-25 12:11:56.281 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:11:57.075 [main] LoginPageTestCases - User successfully clicked  on web app logo.
+[INFO ] 2021-09-25 12:11:57.083 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:12:05.565 [main] LoginPageTestCases - Username is Admin successfully entered.
+[INFO ] 2021-09-25 12:12:05.791 [main] LoginPageTestCases - Password is Admin123 successfully entered.
+[INFO ] 2021-09-25 12:12:05.940 [main] LoginPageTestCases - Location is successfully selected.
+[INFO ] 2021-09-25 12:12:08.505 [main] LoginPageTestCases - Log In button successfully clicked.
+[INFO ] 2021-09-25 12:12:08.569 [main] LoginPageTestCases - Dashboard message verification completed.
+[INFO ] 2021-09-25 12:12:08.574 [main] LoginPageTestCases - Page title verification completed.
+[INFO ] 2021-09-25 12:12:09.812 [main] LoginPageTestCases - User successfully logged out from the web app.
+[INFO ] 2021-09-25 12:12:09.835 [main] LoginPageTestCases - Page title verification completed.
